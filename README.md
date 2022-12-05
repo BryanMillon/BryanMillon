@@ -17,7 +17,6 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    Location: ["Costa Rica, San Jose"],
    currentOccupation: ["open for job opportunities"],
    code: [Javascript, HTML, CSS,],
