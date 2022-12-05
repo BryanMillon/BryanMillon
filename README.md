@@ -11,8 +11,7 @@
 
 </div>
 
-¡Welcome to my profile! I'm a person who is very interested in the progress of technology, 🚀 but I'm new to programming, so I like to share what I know, and above all learn from others.  <br/>
-🎯 My goal is to improve myself in all aspects of my life, striving to provide the best of myself every day. Both in the work aspect and the personal aspect. 
+¡Welcome to my profile! I am a person who is passionate about technology 💻 , who loves to work in a team, i like to look for solutions to problems 🚀, and i am also someone who likes to be constantly expanding my knowledge in the technologies that are used today. 🎯my goal is to improve myself every day personally and professionally. <br/>
 
 ## 🙋🏻‍♂️ About Me 
 
