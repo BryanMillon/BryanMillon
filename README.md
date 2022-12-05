@@ -22,14 +22,9 @@ const aboutMe = {
       },
       databases: ["SQL", "postgreSQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["open for job opportunities"],
 };
 ```
-</br></br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bryan-mill%C3%B3n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
@@ -48,5 +43,10 @@ const aboutMe = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BryanMillon&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="BryanMillon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanMillon&theme=dark" alt="BryanMillon" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bryan-mill%C3%B3n" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+</p>
 
 
