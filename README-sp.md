@@ -15,7 +15,7 @@
 ## 🙋🏻‍♂️ Sobre mi
 
 ```javascript
-const sobre = {
+const sobreMi = {
    Ubicacion: ["Costa Rica, San Jose"],
    Ocupacion: ["Abierto a oportunidades laborales"],
    code: [Javascript, HTML, CSS,],
