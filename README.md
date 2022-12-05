@@ -11,7 +11,7 @@
 
 </div>
 
-¡Welcome to my profile! I am a person who is passionate about technology 💻 , who loves to work in a team, i like to look for solutions to problems 🚀, and i am also someone who likes to be constantly expanding my knowledge in the technologies that are used today. 🎯my goal is to improve myself every day personally and professionally. <br/>
+¡Welcome to my profile! I am a person who is passionate about technology 💻 , who loves to work in a team, I like to find solutions to problems 🚀, and i am also someone who likes to be constantly expanding my knowledge in the technologies that are used today. 🎯my goal is to improve myself every day personally and professionally. <br/>
 
 ## 🙋🏻‍♂️ About Me 
 
