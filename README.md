@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**BryanMillon/BryanMillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS,],
@@ -19,7 +19,7 @@ const aboutMe = {
    },
    currentOccupation: ["last year student, open for job opportunities"],
 };
-
+```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
