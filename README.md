@@ -40,7 +40,7 @@ const aboutMe = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanMillon&show_icons=true&theme=dark&locale=en&layout=compact" alt="BryanMillon" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernameBryanMillon&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="BryanMillon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BryanMillon&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="BryanMillon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanMillon&theme=dark" alt="BryanMillon" /></p>
 
