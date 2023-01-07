@@ -59,7 +59,7 @@ I was able to learn technologies such as:
 ---
 
 ### ✉️ If you want to know more about me
-* You can contact me by [email](mailto:bryanmillon31@gmail.com) or by [Linkedln](https://www.linkedin.com/in/bryan-mill%C3%B3n/)!
+* You can contact me by [email](mailto:bryanmillon31@gmail.com) or by [Linkedln](https://www.linkedin.com/in/bryan-millon)!
 
 
 
