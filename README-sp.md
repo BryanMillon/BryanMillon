@@ -58,4 +58,4 @@ Pude aprender tecnologías como:
 ---
 
 ### ✉️ Si quieres saber mas sobre mi
-* Puedes contactarme por mi [email](mailto:bryanmillon31@gmail.com) o mi [Linkedln](https://www.linkedin.com/in/bryan-mill%C3%B3n/)!
+* Puedes contactarme por mi [email](mailto:bryanmillon31@gmail.com) o mi [Linkedln](https://www.linkedin.com/in/bryan-millon)!
