@@ -35,9 +35,6 @@ const aboutMe = {
 };
 ```
 
-📚 I graduated of [HENRY](https://www.soyhenry.com). A bootcamp of +800 hours. <br/>
-I was able to learn technologies such as:
-
 ## 🖥️My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
