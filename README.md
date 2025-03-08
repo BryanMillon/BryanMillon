@@ -7,7 +7,7 @@
 
 [Spanish](./README-sp.md)
 
-## Full-Stack Web Developer 🖥️
+## Web Developer 🖥️
 
 </div>
 
