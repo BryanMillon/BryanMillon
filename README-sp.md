@@ -6,7 +6,7 @@
 
 [English](./README.md)
 
-## Full-Stack Web Developer 🖥️
+## Web Developer 🖥️
 
 </div>
 
