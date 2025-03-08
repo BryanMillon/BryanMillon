@@ -34,8 +34,6 @@ const sobreMi = {
 };
 ```
 
-📚 Soy graduado de [HENRY](https://www.soyhenry.com). Un bootcamp de +800 horas. <br/>
-Pude aprender tecnologías como:
 
 ## 🖥️Mi Stack
 <p align="left">
